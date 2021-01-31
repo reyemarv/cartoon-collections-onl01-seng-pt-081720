@@ -5,7 +5,7 @@ def roll_call_dwarves(names)
 end
 
 def summon_captain_planet(elements)
-  elements.map{|i| i.
+  elements.map{|i| i.upcase.split
 end
 
 def long_planeteer_calls# code an argument here
